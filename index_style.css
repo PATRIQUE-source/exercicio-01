@@ -1,0 +1,36 @@
+﻿div{
+    font-family: Arial, sans-serif;
+    text-align:justify;
+}
+body {
+    background-color: rgb(181, 181, 181);
+}
+h1{
+    background-color: red;
+    font-size: 100px;
+    padding-left: 10px;
+    text-align:center;
+}
+p{
+    font-size:20px;
+}
+h2 {
+    font-size: 40px;
+    background-color: white;
+    border:5px solid red;
+}
+img{
+    border:solid 5px black;
+}
+#corona{
+    margin-left: 400px;
+}
+#grafico {
+    margin-left: 400px;
+}
+#mascara {
+    margin-left: 400px;
+}
+#alquingel {
+    margin-left: 400px;
+}
